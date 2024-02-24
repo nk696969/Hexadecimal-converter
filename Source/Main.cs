@@ -11,9 +11,9 @@ using System.Diagnostics;
 
 namespace Hexadecimal_converter
 {
-    public partial class Form1 : Form
+    public partial class Main : Window
     {
-        public Form1()
+        public Main()
         {
             InitializeComponent();
         }
